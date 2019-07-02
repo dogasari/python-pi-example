@@ -1,7 +1,7 @@
 def main(msg):
     print(msg)
 main("Hello World!")
-# new comment
+# new comment.
 # another comment
 main("Hello World!")
 
