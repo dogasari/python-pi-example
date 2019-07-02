@@ -1,8 +1,7 @@
-def main(msg)
-    //Adding a new comment
+def main(msg):
     print(msg)
 main("Hello World!")
-
- //new dick
-main("Hello World!")   
+# new comment
+# another comment
+main("Hello World!")
 
